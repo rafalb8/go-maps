@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	"github.com/rafalb8/go-maps/internal/channel"
-	"github.com/rafalb8/go-maps/internal/types"
+	"github.com/rafalb8/go-maps/types"
 )
 
 var (

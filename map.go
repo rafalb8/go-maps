@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/rafalb8/go-maps/internal"
-	"github.com/rafalb8/go-maps/internal/types"
+	"github.com/rafalb8/go-maps/types"
 
 	"github.com/fxamacker/cbor/v2"
 )

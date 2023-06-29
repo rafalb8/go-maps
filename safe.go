@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/rafalb8/go-maps/internal/types"
+	"github.com/rafalb8/go-maps/types"
 )
 
 var _ Maper[string, string] = (*SafeMap[string, string])(nil)

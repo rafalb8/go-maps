@@ -3,7 +3,7 @@ package maps
 import (
 	"context"
 	"github.com/rafalb8/go-maps/internal/channel"
-	"github.com/rafalb8/go-maps/internal/types"
+	"github.com/rafalb8/go-maps/types"
 )
 
 var _ EventfulMaper[string, string] = (*EventfulMap[string, string])(nil)

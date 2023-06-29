@@ -5,7 +5,7 @@ import (
 	"sort"
 
 	"github.com/rafalb8/go-maps/internal/iter"
-	"github.com/rafalb8/go-maps/internal/types"
+	"github.com/rafalb8/go-maps/types"
 
 	"golang.org/x/exp/constraints"
 )
