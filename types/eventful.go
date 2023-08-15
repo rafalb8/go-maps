@@ -12,4 +12,5 @@ type EventType string
 const (
 	PutEvent    EventType = "PUT"
 	DeleteEvent EventType = "DELETE"
+	ErrorEvent  EventType = "ERROR"
 )
